@@ -1,7 +1,7 @@
 # New
 My clone repository 1
 
-# AIML Lab Individual Project (Beginner-Friendly)
+# AIML Lab Individual Project
 
 ## Project Title
 **Student Performance Intelligence System using Visualization, KNN, K-Means, Decision Trees, Random Forest, and Linear Regression**
