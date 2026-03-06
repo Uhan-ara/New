@@ -90,30 +90,9 @@ Build a beginner-friendly AI/ML system that:
 - Set random seed for reproducibility
 - Compare multiple models fairly using same split
 
-## 9) Report Format (Short Report as requested)
-1. Title and Abstract
-2. Problem and Motivation
-3. Dataset Description
-4. Methodology
-5. Results (tables + plots)
-6. Discussion (what worked / what didn’t)
-7. Conclusion and Future Work
-8. Individual Contribution
-
-## 10) Presentation Outline (5–8 slides)
-1. Problem statement
-2. Dataset and preprocessing
-3. EDA visuals
-4. Models used
-5. Results comparison
-6. Conclusion + future enhancements
-
 ## 11) Future Enhancements
 - Add NLP sentiment from student feedback text
 - Build a small Streamlit web app
 - Try XGBoost for performance comparison
 
 ---
-
-## Viva-ready explanation (short)
-"I selected a student performance problem because it allows me to apply multiple AIML concepts from our lab in one project. I performed EDA, built regression and classification models, used clustering to identify student groups, and optionally demonstrated BFS/DFS on a student graph. I compared algorithms and interpreted results in a practical educational context."
