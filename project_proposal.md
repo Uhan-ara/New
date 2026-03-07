@@ -66,7 +66,7 @@ Build a beginner-friendly AI/ML system that:
 - Use K-Means with elbow method to choose K
 - Interpret clusters as student learning profiles
 
-### Step G (Optional but syllabus-aligned): BFS/DFS Mini Analysis
+### Step G: BFS/DFS Mini Analysis
 - Build graph where nodes are students and edges denote interaction/similarity
 - Run BFS and DFS from a selected node
 - Compare traversal order and interpretation
